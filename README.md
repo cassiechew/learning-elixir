@@ -1,4 +1,6 @@
-# Community
+# Me learning Elixir
+
+## Community
 
 To start your Phoenix server:
 
